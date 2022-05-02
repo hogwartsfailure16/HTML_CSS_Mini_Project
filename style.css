@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 40px 0;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+}
+.btn1{
+    color: pink;
+    background-color: white;
+    border: 2px solid pink;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 15px 60px;
+    font-weight: 700;
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%);
+}
+/* .btn1:hover{
+    color: white;
+    background-color: #FF52BF;
+    border: none;
+} */
+h1{
+    /* font-family: 'Open Sans', sans-serif; */
+    display: block;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+p{
+    opacity: 0.6;
+    display: block;
+    margin-bottom: 30px;
+}
+.btn2{
+    color: white;
+    background-color: #FF52BF;
+    border: none;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 15px 60px;
+    font-weight: 700;
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%);
+}
+.mockup-img{
+    margin-left: 30%;
+    width: 70%;
+}
+.achieve{
+    justify-content: space-around;
+}
+h1.num{
+    margin-bottom: 10px;
+}
+.bg1{
+    background-color: #f6fbff;
+}
+.sec1.flex{
+    margin-top: 0px;
+}
+.bg-section1{
+    margin-top: 110px;
+}
+#flowconvo{
+    margin-left: 0px;
+}
+.center{
+    justify-content: center;
+}
+.area51{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 130px;
+}
+.bg2{
+    padding: 180px 0 60px;
+}
+.container-fluid{
+    padding: 0px;
+}
+.footer{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.foot.flex{
+    margin-top: 0px;
+    flex-direction: column;
+    align-items: start;
+    width: 40%;
+}
+#footerp{
+    color: white;
+    width: 70%;
+    padding-top: 30px;
+}
+.phn.flex{
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40%;
+    align-items: center;
+}
+.msg.flex{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 37%;
+    align-items: center;
+}
+h3{
+    color: white;
+    width: 90%;
+}
+.news{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+.newsp{
+    color: white;
+    width: 90%;
+}
+.sub.btn2{
+    border-radius: 5px;
+    padding: 12px 60px;
+}
+.inpt{
+    padding: 10px 60px;
+    margin-right: 25px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
