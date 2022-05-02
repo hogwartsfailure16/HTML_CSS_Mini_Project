@@ -1,1 +1,1 @@
-# HTML_CSS_Mini_Project
+# html-css-project-boilerplate
